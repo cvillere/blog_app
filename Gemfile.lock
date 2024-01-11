@@ -247,7 +247,7 @@ DEPENDENCIES
   dockerfile-rails (>= 1.6)
   importmap-rails
   jbuilder
-  pg (~> 1.1)
+  pg (~> 1.4)
   puma (>= 5.0)
   rails (~> 7.1.2)
   selenium-webdriver
